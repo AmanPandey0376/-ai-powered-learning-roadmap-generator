@@ -494,7 +494,7 @@ Special thanks to the open-source community for providing the tools and librarie
 **Kirtan Shah** - Full-Stack Developer & AI Enthusiast
 
 ### **Get in Touch**
-- 📧 **Email:** [amanaapandey0376@gmail.com](mailto:amanapandey0376@gmail.com)
+- 📧 **Email:** [amanapandey0376@gmail.com](mailto:amanapandey0376@gmail.com)
 - 🐙 **GitHub:** [@AmanPandey0376](https://github.com/AmanPandey0376)
 - 🔗 **LinkedIn:** [Connect with me](https://linkedin.com/in/your-profile)
 - 🌐 **Portfolio:** [View my work](https://your-portfolio.com)
