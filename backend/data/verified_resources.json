@@ -1,0 +1,290 @@
+{
+  "data_science": {
+    "freeResources": [
+      {
+        "name": "Kaggle Learn",
+        "type": "Course",
+        "url": "https://www.kaggle.com/learn",
+        "description": "Free micro-courses on data science and machine learning topics",
+        "difficulty": "Beginner",
+        "estimatedHours": 30,
+        "rating": 4.7,
+        "provider": "Kaggle",
+        "lastUpdated": "2024",
+        "highlights": ["Hands-on exercises", "Real datasets", "Free certificates"]
+      },
+      {
+        "name": "freeCodeCamp Data Science",
+        "type": "Course",
+        "url": "https://www.freecodecamp.org",
+        "description": "Free comprehensive programming and data science curriculum",
+        "difficulty": "Beginner",
+        "estimatedHours": 300,
+        "rating": 4.8,
+        "provider": "freeCodeCamp",
+        "lastUpdated": "2024",
+        "highlights": ["Project-based", "Free certification", "Community support"]
+      },
+      {
+        "name": "Coursera Data Science Courses (Audit)",
+        "type": "Course",
+        "url": "https://www.coursera.org",
+        "description": "University-level data science courses available for audit",
+        "difficulty": "Intermediate",
+        "estimatedHours": 100,
+        "rating": 4.6,
+        "provider": "Coursera",
+        "lastUpdated": "2024",
+        "highlights": ["University content", "Audit for free", "High quality"]
+      },
+      {
+        "name": "edX Data Science Courses",
+        "type": "Course",
+        "url": "https://www.edx.org",
+        "description": "Free data science courses from top universities",
+        "difficulty": "Intermediate",
+        "estimatedHours": 80,
+        "rating": 4.5,
+        "provider": "edX",
+        "lastUpdated": "2024",
+        "highlights": ["University courses", "Free access", "Verified certificates available"]
+      }
+    ],
+    "paidResources": [
+      {
+        "name": "Udemy Data Science Courses",
+        "type": "Course",
+        "url": "https://www.udemy.com",
+        "description": "Comprehensive data science courses with hands-on projects",
+        "difficulty": "Beginner",
+        "estimatedHours": 50,
+        "price": "$50-200",
+        "rating": 4.5,
+        "provider": "Udemy",
+        "lastUpdated": "2024",
+        "highlights": ["Lifetime access", "Hands-on projects", "Certificate of completion"],
+        "certificateOffered": true
+      },
+      {
+        "name": "DataCamp",
+        "type": "Platform Subscription",
+        "url": "https://www.datacamp.com",
+        "description": "Interactive data science learning platform",
+        "difficulty": "Beginner",
+        "estimatedHours": 100,
+        "price": "$25-35/month",
+        "rating": 4.4,
+        "provider": "DataCamp",
+        "lastUpdated": "2024",
+        "highlights": ["Interactive coding", "Skill assessments", "Career tracks"],
+        "certificateOffered": true
+      },
+      {
+        "name": "Pluralsight Data Science",
+        "type": "Platform Subscription",
+        "url": "https://www.pluralsight.com",
+        "description": "Data science learning paths with skill assessments",
+        "difficulty": "Intermediate",
+        "estimatedHours": 120,
+        "price": "$29-45/month",
+        "rating": 4.3,
+        "provider": "Pluralsight",
+        "lastUpdated": "2024",
+        "highlights": ["Learning paths", "Skill assessments", "Hands-on labs"],
+        "certificateOffered": true
+      }
+    ]
+  },
+  "web_development": {
+    "freeResources": [
+      {
+        "name": "freeCodeCamp",
+        "type": "Course",
+        "url": "https://www.freecodecamp.org",
+        "description": "Free full-stack web development curriculum",
+        "difficulty": "Beginner",
+        "estimatedHours": 300,
+        "rating": 4.8,
+        "provider": "freeCodeCamp",
+        "lastUpdated": "2024",
+        "highlights": ["Full curriculum", "Hands-on projects", "Free certificates"]
+      },
+      {
+        "name": "MDN Web Docs",
+        "type": "Documentation",
+        "url": "https://developer.mozilla.org",
+        "description": "Comprehensive web development documentation",
+        "difficulty": "Beginner",
+        "estimatedHours": 50,
+        "rating": 4.9,
+        "provider": "Mozilla",
+        "lastUpdated": "2024",
+        "highlights": ["Authoritative content", "Interactive examples", "Always updated"]
+      },
+      {
+        "name": "The Odin Project",
+        "type": "Course",
+        "url": "https://www.theodinproject.com",
+        "description": "Free full-stack curriculum with real projects",
+        "difficulty": "Intermediate",
+        "estimatedHours": 400,
+        "rating": 4.7,
+        "provider": "The Odin Project",
+        "lastUpdated": "2024",
+        "highlights": ["Project-based", "Community support", "Full-stack focus"]
+      },
+      {
+        "name": "Codecademy Free Courses",
+        "type": "Course",
+        "url": "https://www.codecademy.com",
+        "description": "Interactive web development courses",
+        "difficulty": "Beginner",
+        "estimatedHours": 40,
+        "rating": 4.5,
+        "provider": "Codecademy",
+        "lastUpdated": "2024",
+        "highlights": ["Interactive coding", "Immediate feedback", "Free tier available"]
+      }
+    ],
+    "paidResources": [
+      {
+        "name": "Udemy Web Development Courses",
+        "type": "Course",
+        "url": "https://www.udemy.com",
+        "description": "Comprehensive web development courses",
+        "difficulty": "Beginner",
+        "estimatedHours": 60,
+        "price": "$50-200",
+        "rating": 4.5,
+        "provider": "Udemy",
+        "lastUpdated": "2024",
+        "highlights": ["Lifetime access", "Practical projects", "Certificate of completion"],
+        "certificateOffered": true
+      },
+      {
+        "name": "Frontend Masters",
+        "type": "Platform Subscription",
+        "url": "https://frontendmasters.com",
+        "description": "Advanced frontend development courses",
+        "difficulty": "Advanced",
+        "estimatedHours": 200,
+        "price": "$39/month",
+        "rating": 4.7,
+        "provider": "Frontend Masters",
+        "lastUpdated": "2024",
+        "highlights": ["Expert instructors", "Advanced topics", "Workshop format"],
+        "certificateOffered": true
+      },
+      {
+        "name": "Treehouse",
+        "type": "Platform Subscription",
+        "url": "https://teamtreehouse.com",
+        "description": "Web development tracks and projects",
+        "difficulty": "Beginner",
+        "estimatedHours": 150,
+        "price": "$25/month",
+        "rating": 4.4,
+        "provider": "Treehouse",
+        "lastUpdated": "2024",
+        "highlights": ["Project-based", "Beginner-friendly", "Tech degrees"],
+        "certificateOffered": true
+      }
+    ]
+  },
+  "python": {
+    "freeResources": [
+      {
+        "name": "Python.org Official Tutorial",
+        "type": "Tutorial",
+        "url": "https://docs.python.org/3/tutorial/",
+        "description": "The official Python tutorial",
+        "difficulty": "Beginner",
+        "estimatedHours": 20,
+        "rating": 4.7,
+        "provider": "Python Software Foundation",
+        "lastUpdated": "2024",
+        "highlights": ["Official documentation", "Comprehensive", "Always updated"]
+      },
+      {
+        "name": "freeCodeCamp Python",
+        "type": "Course",
+        "url": "https://www.freecodecamp.org",
+        "description": "Free Python curriculum with projects",
+        "difficulty": "Beginner",
+        "estimatedHours": 300,
+        "rating": 4.8,
+        "provider": "freeCodeCamp",
+        "lastUpdated": "2024",
+        "highlights": ["Project-based", "Free certification", "Community support"]
+      },
+      {
+        "name": "Real Python (Free Articles)",
+        "type": "Tutorial",
+        "url": "https://realpython.com",
+        "description": "High-quality Python tutorials and articles",
+        "difficulty": "Intermediate",
+        "estimatedHours": 40,
+        "rating": 4.8,
+        "provider": "Real Python",
+        "lastUpdated": "2024",
+        "highlights": ["High-quality content", "Practical examples", "Regular updates"]
+      },
+      {
+        "name": "Automate the Boring Stuff",
+        "type": "Book",
+        "url": "https://automatetheboringstuff.com",
+        "description": "Free online Python book for practical automation",
+        "difficulty": "Beginner",
+        "estimatedHours": 30,
+        "rating": 4.6,
+        "provider": "Al Sweigart",
+        "lastUpdated": "2024",
+        "highlights": ["Practical projects", "Beginner-friendly", "Free online access"]
+      }
+    ],
+    "paidResources": [
+      {
+        "name": "Udemy Python Courses",
+        "type": "Course",
+        "url": "https://www.udemy.com",
+        "description": "Comprehensive Python courses",
+        "difficulty": "Beginner",
+        "estimatedHours": 50,
+        "price": "$50-200",
+        "rating": 4.5,
+        "provider": "Udemy",
+        "lastUpdated": "2024",
+        "highlights": ["Lifetime access", "Hands-on projects", "Certificate of completion"],
+        "certificateOffered": true
+      },
+      {
+        "name": "Real Python Membership",
+        "type": "Platform Subscription",
+        "url": "https://realpython.com",
+        "description": "Premium Python learning platform",
+        "difficulty": "Intermediate",
+        "estimatedHours": 100,
+        "price": "$60/year",
+        "rating": 4.8,
+        "provider": "Real Python",
+        "lastUpdated": "2024",
+        "highlights": ["Video courses", "Interactive exercises", "Community access"],
+        "certificateOffered": false
+      },
+      {
+        "name": "PyCharm Academy",
+        "type": "Course",
+        "url": "https://www.jetbrains.com/pycharm-edu/",
+        "description": "Python learning with PyCharm IDE",
+        "difficulty": "Beginner",
+        "estimatedHours": 40,
+        "price": "Free for students",
+        "rating": 4.5,
+        "provider": "JetBrains",
+        "lastUpdated": "2024",
+        "highlights": ["IDE integration", "Interactive learning", "Professional tools"],
+        "certificateOffered": false
+      }
+    ]
+  }
+}

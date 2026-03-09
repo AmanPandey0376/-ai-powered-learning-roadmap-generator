@@ -1,0 +1,216 @@
+# ===================================
+# ROOT .GITIGNORE FOR FULL STACK PROJECT
+# ===================================
+
+# ===== SECURITY - NEVER COMMIT THESE =====
+# Environment files with secrets
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+*.p12
+*.pfx
+
+# API Keys and Secrets (if accidentally created)
+*api_key*
+*secret*
+*password*
+*token*
+config_secrets.py
+secrets.json
+
+# ===== PYTHON (BACKEND) =====
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Flask
+instance/
+.webassets-cache
+
+# ===== NODE.JS (FRONTEND) =====
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Build outputs
+dist/
+dist-ssr/
+build/
+.next/
+out/
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# ===== LOGS =====
+logs/
+*.log
+backend.log
+frontend.log
+debug.log
+error.log
+backend/backend.log
+backend/*.log
+
+# ===== OPERATING SYSTEM =====
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# ===== IDEs AND EDITORS =====
+# VS Code (exclude all VS Code settings)
+.vscode/
+
+# Kiro IDE (exclude all Kiro IDE settings)
+.kiro/
+
+# JetBrains IDEs
+.idea/
+*.swp
+*.swo
+*~
+
+# Sublime Text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
+# Vim
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+
+# ===== TEMPORARY FILES =====
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+*.orig
+*.rej
+*.swp
+*.swo
+*~
+
+# Cache directories
+.cache/
+.parcel-cache/
+.npm/
+.eslintcache
+.stylelintcache
+
+# ===== TESTING =====
+# Coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# ===== DATABASES =====
+# SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# ===== DEPLOYMENT =====
+# Deployment files
+.vercel
+.netlify
+.firebase/
+
+# ===== PROJECT SPECIFIC =====
+# Cleanup script (optional - remove if you want to keep it)
+cleanup_project.py
+
+# Local development files
+local_config.py
+dev_settings.py
+
+# ===== KEEP THESE FILES =====
+# Keep example environment files
+!.env.example
+!backend/.env.example
+!frontend/.env.example
+
+# Keep development environment files (if they don't contain secrets)
+!backend/.env.development
+!frontend/.env.development
+!frontend/.env.production

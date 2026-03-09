@@ -1,0 +1,362 @@
+{
+  "react developer": {
+    "freeResources": [
+      {
+        "id": 1,
+        "title": "React Official Documentation",
+        "platform": "React.dev",
+        "creator": "React Team",
+        "link": "https://react.dev",
+        "duration": "Self-paced",
+        "description": "Official React documentation with interactive tutorials and comprehensive guides"
+      },
+      {
+        "id": 2,
+        "title": "freeCodeCamp React Course",
+        "platform": "freeCodeCamp",
+        "creator": "freeCodeCamp",
+        "link": "https://www.freecodecamp.org/learn/front-end-development-libraries/",
+        "duration": "10 hours",
+        "description": "Complete React curriculum with hands-on projects and certifications"
+      },
+      {
+        "id": 3,
+        "title": "React Tutorial for Beginners",
+        "platform": "YouTube",
+        "creator": "Programming with Mosh",
+        "link": "https://www.youtube.com/watch?v=SqcY0GlETPk",
+        "duration": "1 hour",
+        "description": "Comprehensive React tutorial covering components, props, state, and hooks"
+      },
+      {
+        "id": 4,
+        "title": "React Hooks Documentation",
+        "platform": "React.dev",
+        "creator": "React Team",
+        "link": "https://react.dev/reference/react",
+        "duration": "Self-paced",
+        "description": "Complete reference for React Hooks with examples and best practices"
+      }
+    ],
+    "paidResources": [
+      {
+        "id": 1,
+        "title": "Complete React Developer Course",
+        "platform": "Udemy",
+        "creator": "Andrei Neagoie",
+        "link": "https://www.udemy.com/course/complete-react-developer-zero-to-mastery/",
+        "duration": "40 hours",
+        "price": "$84.99",
+        "description": "Comprehensive React course with Redux, Hooks, GraphQL, and real-world projects"
+      },
+      {
+        "id": 2,
+        "title": "React - The Complete Guide",
+        "platform": "Udemy",
+        "creator": "Maximilian Schwarzmüller",
+        "link": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/",
+        "duration": "48 hours",
+        "price": "$94.99",
+        "description": "In-depth React course covering hooks, context, Redux, Next.js, and testing"
+      },
+      {
+        "id": 3,
+        "title": "Epic React",
+        "platform": "Epic React",
+        "creator": "Kent C. Dodds",
+        "link": "https://epicreact.dev/",
+        "duration": "Self-paced",
+        "price": "$599",
+        "description": "Advanced React workshop series with hands-on exercises and expert guidance"
+      }
+    ]
+  },
+  "python developer": {
+    "freeResources": [
+      {
+        "id": 1,
+        "title": "Python Official Tutorial",
+        "platform": "Python.org",
+        "creator": "Python Software Foundation",
+        "link": "https://docs.python.org/3/tutorial/",
+        "duration": "Self-paced",
+        "description": "Official Python tutorial covering language fundamentals and standard library"
+      },
+      {
+        "id": 2,
+        "title": "Python for Everybody Specialization",
+        "platform": "Coursera",
+        "creator": "University of Michigan",
+        "link": "https://www.coursera.org/specializations/python",
+        "duration": "8 months",
+        "description": "Complete Python specialization with data structures, web scraping, and databases"
+      },
+      {
+        "id": 3,
+        "title": "Automate the Boring Stuff with Python",
+        "platform": "Online Book",
+        "creator": "Al Sweigart",
+        "link": "https://automatetheboringstuff.com/",
+        "duration": "Self-paced",
+        "description": "Practical Python programming for automation and everyday tasks"
+      },
+      {
+        "id": 4,
+        "title": "Python Crash Course",
+        "platform": "YouTube",
+        "creator": "Programming with Mosh",
+        "link": "https://www.youtube.com/watch?v=_uQrJ0TkZlc",
+        "duration": "6 hours",
+        "description": "Complete Python tutorial for beginners with three hands-on projects"
+      }
+    ],
+    "paidResources": [
+      {
+        "id": 1,
+        "title": "Complete Python Bootcamp",
+        "platform": "Udemy",
+        "creator": "Jose Portilla",
+        "link": "https://www.udemy.com/course/complete-python-bootcamp/",
+        "duration": "22 hours",
+        "price": "$84.99",
+        "description": "Comprehensive Python course from basics to advanced topics with projects"
+      },
+      {
+        "id": 2,
+        "title": "Python Tricks: The Book",
+        "platform": "Real Python",
+        "creator": "Dan Bader",
+        "link": "https://realpython.com/products/python-tricks-book/",
+        "duration": "Self-paced",
+        "price": "$29",
+        "description": "Advanced Python techniques and best practices for writing clean code"
+      },
+      {
+        "id": 3,
+        "title": "Python Web Development with Django",
+        "platform": "Pluralsight",
+        "creator": "Reindert-Jan Ekker",
+        "link": "https://www.pluralsight.com/courses/django-fundamentals",
+        "duration": "5 hours",
+        "price": "$29/month",
+        "description": "Complete Django framework course for building web applications"
+      }
+    ]
+  },
+  "machine learning engineer": {
+    "freeResources": [
+      {
+        "id": 1,
+        "title": "Machine Learning Course",
+        "platform": "Coursera",
+        "creator": "Andrew Ng",
+        "link": "https://www.coursera.org/learn/machine-learning",
+        "duration": "11 weeks",
+        "description": "Foundational machine learning course covering algorithms and mathematical concepts"
+      },
+      {
+        "id": 2,
+        "title": "Scikit-learn Documentation",
+        "platform": "Scikit-learn",
+        "creator": "Scikit-learn Team",
+        "link": "https://scikit-learn.org/stable/user_guide.html",
+        "duration": "Self-paced",
+        "description": "Comprehensive guide to machine learning with Python and scikit-learn"
+      },
+      {
+        "id": 3,
+        "title": "Machine Learning Crash Course",
+        "platform": "Google AI",
+        "creator": "Google",
+        "link": "https://developers.google.com/machine-learning/crash-course",
+        "duration": "15 hours",
+        "description": "Fast-paced introduction to machine learning with TensorFlow APIs"
+      },
+      {
+        "id": 4,
+        "title": "Kaggle Learn",
+        "platform": "Kaggle",
+        "creator": "Kaggle",
+        "link": "https://www.kaggle.com/learn",
+        "duration": "Self-paced",
+        "description": "Practical machine learning courses with hands-on exercises and competitions"
+      }
+    ],
+    "paidResources": [
+      {
+        "id": 1,
+        "title": "Machine Learning A-Z",
+        "platform": "Udemy",
+        "creator": "Kirill Eremenko",
+        "link": "https://www.udemy.com/course/machinelearning/",
+        "duration": "44 hours",
+        "price": "$94.99",
+        "description": "Complete machine learning course with Python and R implementations"
+      },
+      {
+        "id": 2,
+        "title": "Deep Learning Specialization",
+        "platform": "Coursera",
+        "creator": "Andrew Ng",
+        "link": "https://www.coursera.org/specializations/deep-learning",
+        "duration": "4 months",
+        "price": "$49/month",
+        "description": "Advanced deep learning specialization covering neural networks and AI"
+      },
+      {
+        "id": 3,
+        "title": "Machine Learning Engineering for Production",
+        "platform": "Coursera",
+        "creator": "DeepLearning.AI",
+        "link": "https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops",
+        "duration": "4 months",
+        "price": "$49/month",
+        "description": "MLOps specialization covering deployment, monitoring, and production systems"
+      }
+    ]
+  },
+  "full stack developer": {
+    "freeResources": [
+      {
+        "id": 1,
+        "title": "The Odin Project",
+        "platform": "The Odin Project",
+        "creator": "The Odin Project Team",
+        "link": "https://www.theodinproject.com/",
+        "duration": "Self-paced",
+        "description": "Complete full-stack curriculum with HTML, CSS, JavaScript, and backend technologies"
+      },
+      {
+        "id": 2,
+        "title": "freeCodeCamp Full Stack",
+        "platform": "freeCodeCamp",
+        "creator": "freeCodeCamp",
+        "link": "https://www.freecodecamp.org/learn/",
+        "duration": "300 hours",
+        "description": "Comprehensive full-stack curriculum with certifications and projects"
+      },
+      {
+        "id": 3,
+        "title": "MDN Web Docs",
+        "platform": "Mozilla",
+        "creator": "Mozilla",
+        "link": "https://developer.mozilla.org/en-US/",
+        "duration": "Self-paced",
+        "description": "Complete web development documentation and tutorials"
+      },
+      {
+        "id": 4,
+        "title": "Node.js Documentation",
+        "platform": "Node.js",
+        "creator": "Node.js Foundation",
+        "link": "https://nodejs.org/en/docs/",
+        "duration": "Self-paced",
+        "description": "Official Node.js documentation with guides and API reference"
+      }
+    ],
+    "paidResources": [
+      {
+        "id": 1,
+        "title": "The Complete Web Developer Bootcamp",
+        "platform": "Udemy",
+        "creator": "Colt Steele",
+        "link": "https://www.udemy.com/course/the-complete-web-development-bootcamp/",
+        "duration": "65 hours",
+        "price": "$94.99",
+        "description": "Comprehensive full-stack course covering frontend, backend, and databases"
+      },
+      {
+        "id": 2,
+        "title": "Full Stack Open",
+        "platform": "University of Helsinki",
+        "creator": "University of Helsinki",
+        "link": "https://fullstackopen.com/en/",
+        "duration": "Self-paced",
+        "price": "Free (Paid Certificate)",
+        "description": "Modern full-stack development with React, Redux, Node.js, and GraphQL"
+      },
+      {
+        "id": 3,
+        "title": "Advanced React and GraphQL",
+        "platform": "Wes Bos",
+        "creator": "Wes Bos",
+        "link": "https://advancedreact.com/",
+        "duration": "Self-paced",
+        "price": "$97",
+        "description": "Advanced full-stack course with React, GraphQL, and modern tooling"
+      }
+    ]
+  },
+  "data scientist": {
+    "freeResources": [
+      {
+        "id": 1,
+        "title": "Data Science Course",
+        "platform": "Coursera",
+        "creator": "Johns Hopkins University",
+        "link": "https://www.coursera.org/specializations/jhu-data-science",
+        "duration": "11 months",
+        "description": "Complete data science specialization covering R, statistics, and machine learning"
+      },
+      {
+        "id": 2,
+        "title": "Python for Data Science Handbook",
+        "platform": "GitHub",
+        "creator": "Jake VanderPlas",
+        "link": "https://jakevdp.github.io/PythonDataScienceHandbook/",
+        "duration": "Self-paced",
+        "description": "Comprehensive guide to data science tools in Python ecosystem"
+      },
+      {
+        "id": 3,
+        "title": "Kaggle Courses",
+        "platform": "Kaggle",
+        "creator": "Kaggle",
+        "link": "https://www.kaggle.com/learn",
+        "duration": "Self-paced",
+        "description": "Practical data science courses with real-world datasets and competitions"
+      },
+      {
+        "id": 4,
+        "title": "Statistics and Probability",
+        "platform": "Khan Academy",
+        "creator": "Khan Academy",
+        "link": "https://www.khanacademy.org/math/statistics-probability",
+        "duration": "Self-paced",
+        "description": "Foundational statistics and probability concepts for data science"
+      }
+    ],
+    "paidResources": [
+      {
+        "id": 1,
+        "title": "Data Science Bootcamp",
+        "platform": "Udemy",
+        "creator": "365 Careers",
+        "link": "https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/",
+        "duration": "29 hours",
+        "price": "$84.99",
+        "description": "Complete data science bootcamp with Python, statistics, and machine learning"
+      },
+      {
+        "id": 2,
+        "title": "Applied Data Science with Python",
+        "platform": "Coursera",
+        "creator": "University of Michigan",
+        "link": "https://www.coursera.org/specializations/data-science-python",
+        "duration": "5 months",
+        "price": "$49/month",
+        "description": "Applied data science specialization with Python and real-world projects"
+      },
+      {
+        "id": 3,
+        "title": "Data Science Professional Certificate",
+        "platform": "edX",
+        "creator": "Harvard University",
+        "link": "https://www.edx.org/professional-certificate/harvardx-data-science",
+        "duration": "9 months",
+        "price": "$99/month",
+        "description": "Professional data science certificate with R and statistical analysis"
+      }
+    ]
+  }
+}
