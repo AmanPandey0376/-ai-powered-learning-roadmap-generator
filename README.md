@@ -103,7 +103,7 @@ Documentation:       Comprehensive README, inline comments
 
 ### **Step 1: Clone Repository**
 ```bash
-git clone https://github.com/technical-beast-7/ai-powered-learning-roadmap-generator.git
+git clone https://github.com/AmanPandey0376/ai-powered-learning-roadmap-generator.git
 cd ai-powered-learning-roadmap-generator
 ```
 
@@ -494,16 +494,16 @@ Special thanks to the open-source community for providing the tools and librarie
 **Kirtan Shah** - Full-Stack Developer & AI Enthusiast
 
 ### **Get in Touch**
-- 📧 **Email:** [technical.beast.7@gmail.com](mailto:technical.beast.7@gmail.com)
-- 🐙 **GitHub:** [@technical-beast-7](https://github.com/technical-beast-7)
+- 📧 **Email:** [amanaapandey0376@gmail.com](mailto:amanapandey0376@gmail.com)
+- 🐙 **GitHub:** [@AmanPandey0376](https://github.com/AmanPandey0376)
 - 🔗 **LinkedIn:** [Connect with me](https://linkedin.com/in/your-profile)
 - 🌐 **Portfolio:** [View my work](https://your-portfolio.com)
 
 ### **Project Links**
 - 🚀 **Live Demo:** [Coming Soon]
-- 📂 **Repository:** [https://github.com/technical-beast-7/ai-powered-learning-roadmap-generator](https://github.com/technical-beast-7/ai-powered-learning-roadmap-generator)
-- 📋 **Issues:** [Report bugs or request features](https://github.com/technical-beast-7/ai-powered-learning-roadmap-generator/issues)
-- 💬 **Discussions:** [Join the conversation](https://github.com/technical-beast-7/ai-powered-learning-roadmap-generator/discussions)
+- 📂 **Repository:** [https://github.com/AmanPandey0376/ai-powered-learning-roadmap-generator](https://github.com/AmanPandey0376/ai-powered-learning-roadmap-generator)
+- 📋 **Issues:** [Report bugs or request features](https://github.com/AmanPandey0376/ai-powered-learning-roadmap-generator/issues)
+- 💬 **Discussions:** [Join the conversation](https://github.com/AmanPandey0376/ai-powered-learning-roadmap-generator/discussions)
 
 ### **Support the Project**
 If this project helped you, consider:
@@ -519,6 +519,6 @@ If this project helped you, consider:
 
 **⭐ Star this repository if you found it helpful! ⭐**
 
-*Built with ❤️ by [Kirtan Shah](https://github.com/technical-beast-7)*
+*Built with ❤️ by [Aman Pandey](https://github.com/AmanPandey0376)*
 
 </div>
